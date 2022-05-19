@@ -10,7 +10,7 @@
 
 <!-- <img src="https://gv.halberd.cn/DarthPestilane?theme=stroke-colorful&active=3200ff&deactive=f1f1f1&len=8&speed=40&size=60&space=5&tail=1" /> -->
 <!-- <img src="https://gv.halberd.cn/DarthPestilane?theme=digital&active=3200ff&deactive=f1f1f1&len=8&speed=40&size=60&space=5&tail=1" /> -->
-<img src="https://gv.halberd.cn/DarthPestilane?theme=stroke-fill&active=3200ff&deactive=f1f1f1&len=8&speed=40&size=60&space=5&tail=1" />
+<!-- <img src="https://gv.halberd.cn/DarthPestilane?theme=stroke-fill&active=3200ff&deactive=f1f1f1&len=8&speed=40&size=60&space=5&tail=1" /> -->
 
 <!--
 Here are some ideas to get you started:
